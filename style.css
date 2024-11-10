@@ -1,0 +1,59 @@
+
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+#hero {
+    background: url(./image/banner2.avif) center/cover no-repeat;
+    color: rgb(247, 241, 241);
+}
+.lead{
+    color: rgb(1, 3, 17);
+    font-size: 30px;
+}
+.display-4{
+    color: black;
+    font-size: 50px;
+}
+.nav-link{
+    color: aqua;
+}
+.navbar-brand{
+    color: #fd03f5;
+}
+
+#about img {
+    border-radius:100px;
+}
+
+#projects .card {
+    margin-bottom: 50px;
+}
+#skills {
+    color: #d726d1;
+}
+
+.footer {
+    background-color: #440754;
+}
+#contact{
+    color: rgb(140, 25, 206);
+}
+.col-md-6{
+    font-size: 30px;
+    color: #0b030b;
+}
+
+#tree1{
+    height: 400px;
+}
+
+#tree{
+    height: 415px;
+}
+
+
+
+
+
